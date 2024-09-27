@@ -1,7 +1,7 @@
-jellyfin/jellyfin
 linuxserver/qbittorrent
 containrrr/watchtower
 dzhuang/tinymediamanager
 emby/embyserver
 dzhuang-tinymediamanager
 linzeyi/hivision_idphotos
+jellyfin/jellyfin
